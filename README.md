@@ -45,11 +45,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-ori
 
 
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200"
-      style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoQurino0&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
