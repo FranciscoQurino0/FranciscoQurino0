@@ -1,5 +1,5 @@
 ## 👨‍💻Francisco Quirino 
-Olá, me chamo Francisco, tenho 16 anos e estou estudando programação no IFPE. Atualmente, estou no 3º ano do Ensino Médio e estou em busca de aprender cada vez mais.
+Olá!
 ### 🤖 Linguagens e Tecnologias
 
 
